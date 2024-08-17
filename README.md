@@ -6,7 +6,7 @@
 
 - ### **A**
   - [Aabhirup Paul](https://github.com/paul-abhirup)
-  - Aniket Chaudhari (https://github.com/aniketchaudharicodes)
+  - [Aniket Chaudhari](https://github.com/aniketchaudharicodes)
 
 | [`Back To Top`](#contents) |
 
@@ -27,7 +27,7 @@
 | [`Back To Top`](#contents) |
 
 - ### **F**
-- [farhan](https://github.com/ifarhanx)
+  - [farhan](https://github.com/ifarhanx)
 
 | [`Back To Top`](#contents) |
 
