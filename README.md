@@ -7,7 +7,7 @@
 - ### **A**
   - [Aabhirup Paul](https://github.com/paul-abhirup)
   - [Aniket Chaudhari](https://github.com/aniketchaudharicodes)
-  - [Ayush Chaudhari](https://github.com/aniketchaudharicodes)
+  - [Ayush Chaudhari](https://github.com/the-bokya)
 
 | [`Back To Top`](#contents) |
 
